@@ -6,7 +6,7 @@ I am thinking about doing the mobile version of the final project.
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-I do not plan to collaborate.
+I plan to collaborate with Eric Zhao
 
 ## Do you have any questions of your own?
 
